@@ -22,7 +22,7 @@ function App() {
   return (
     <div style={styles.container}>
       <div style={styles.calculatorBox}>
-        <h1 style={styles.heading}>🧮 Simple Calculator</h1>
+        <h1 style={styles.heading}>🧮 hello Calculator</h1>
         <input style={styles.input} type="text" value={input} readOnly />
 
         <div style={styles.buttonGrid}>
